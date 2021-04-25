@@ -17,7 +17,7 @@ h1{
 h2{    
     margin-top: 10px; 
     color: #416618;
-    border: #416618;
+    border-left: 3px dotted #416618;
 }
 
 h3{    
