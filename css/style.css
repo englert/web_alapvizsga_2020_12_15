@@ -8,13 +8,16 @@ header{
 h1{
     background-color: rgba(248, 248, 248, 0.75);
     font-family: Verdana;
+    color: #416618;
     font-weight: bold;
     margin-top: 80px;
     padding-left: 11rem;    
 }
 
 h2{    
-    margin-top: 10px;    
+    margin-top: 10px; 
+    color: #416618;
+    border: #416618;
 }
 
 h3{    
