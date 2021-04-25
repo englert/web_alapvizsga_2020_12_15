@@ -47,3 +47,8 @@ thead>tr:first-child{
 .navbar{
     background-color: #fd8800;
 }
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
