@@ -2,14 +2,15 @@
 header{    
     background-position: center center;
     height: 350px;
-    background-image: url('../img/bg2.jpg');
+    background-image: url('../img/bg2.jpg')
 }
 
 h1{
     background-color: rgba(248, 248, 248, 0.75);
+    font-family: Verdana;
+    font-weight: bold;
     margin-top: 80px;
-    padding-left: 11rem; 
-    bac   
+    padding-left: 11rem;    
 }
 
 h2{    
@@ -35,3 +36,6 @@ thead>tr:first-child{
     letter-spacing: 2px;    
 }
 
+.navbar{
+    background-color: #fd8800;
+}
